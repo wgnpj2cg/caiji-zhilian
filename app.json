@@ -1,0 +1,17 @@
+{
+  "name": "[...]",
+  "repository": "[https://github.com/...]",
+  "env": {
+    "Db_username": {
+      "description": "Db_username",
+      "value": "Db_username"
+    },
+    "Db_port": {
+      "description": "Db_port",
+      "value": "Db_port"
+    }
+  },
+  "website": "https://example.com",
+  "stack": "container"
+}
+    
